@@ -1,16 +1,15 @@
-Sales Analytics using Excel Pivot Tables
+## AtliQ Sales Performance  Analytics
 
 Project Overview
 
 This project focuses on analyzing retail sales data using Microsoft Excel. The dataset contains sales transactions, product information, and market data. The objective was to transform raw data into meaningful business insights through data cleaning, data modeling, and Pivot Table analysis.
 
 ---
-
-Situation
+Problem Statement 
 
 A retail company generated large volumes of sales data across different products and markets. The raw data was difficult to interpret and lacked summarized insights for decision-making.
 
-Task
+Objective
 
 Analyze the sales data and create meaningful summaries that help understand:
 
@@ -19,7 +18,7 @@ Analyze the sales data and create meaningful summaries that help understand:
 - Product category performance
 - Key business insights using Pivot Tables
 
-Action
+## Approach
 
 - Imported and explored the sales dataset in Excel.
 - Organized the data into:
@@ -32,7 +31,7 @@ Action
 - Analyzed sales by product, category, market, and region.
 - Structured the workbook using professional naming conventions.
 
-Result
+## Business Outcome
 
 - Successfully transformed raw sales data into actionable business insights.
 - Improved data readability and reporting through Pivot Tables.
@@ -40,8 +39,7 @@ Result
 - Developed a reusable Excel analytics project demonstrating data analysis skills.
 
 ---
-
-Files Included
+Report Includes;
 
 - Fact_Sales
 - Dim_Product
@@ -49,16 +47,6 @@ Files Included
 - Pivot_Summary
 - Pivot_Products
 
-Skills Demonstrated
-
-- Microsoft Excel
-- Data Cleaning
-- Data Analysis
-- Pivot Tables
-- Data Modeling
-- Business Analytics
-- Reporting and Visualization
-
 Tools Used
 
-- Microsoft Excel / WPS Office
+- Microsoft Excel / Power Pivot / Pivot Tables / Power Query
